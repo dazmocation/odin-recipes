@@ -1,0 +1,27 @@
+* {
+    background-color: black;
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+ul {
+    color: red;
+    list-style-position: inside;
+}
+
+li {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
